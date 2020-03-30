@@ -3,10 +3,17 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "Hello World by Philip!\n";
-	std::cout << "Start develop branch\n";
+	cout << "Hello World by Philip!\n";
+    cout << "Hello World by Philip!\n";
+    cout << "Hello World by Rinaldy!\n";
+	cout << "Start develop branch\n";
+	cout << "Merge Develop into remote master branch\n";
+
+    return 0;
 }
 
 // Programm ausführen: STRG+F5 oder Menüeintrag "Debuggen" > "Starten ohne Debuggen starten"
