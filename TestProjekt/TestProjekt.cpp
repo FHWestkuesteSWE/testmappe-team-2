@@ -7,10 +7,9 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello World by Philip!\n";
     cout << "Hello World by Philip!\n";
     cout << "Hello World by Rinaldy!\n";
-	cout << "Start develop branch\n";
+    cout << "Start develop branch\n";
 	cout << "Merge Develop into remote master branch\n";
 
     return 0;
