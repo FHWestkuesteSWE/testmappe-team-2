@@ -3,9 +3,14 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "Hello World by Philip!\n";
+    cout << "Hello World by Philip!\n";
+    cout << "Hello World by Rinaldy!\n";
+
+    return 0;
 }
 
 // Programm ausführen: STRG+F5 oder Menüeintrag "Debuggen" > "Starten ohne Debuggen starten"
